@@ -10,6 +10,8 @@ import (
 
 var pathList = []string{
 	"/usr/sbin/hpssacli",
+	"/usr/sbin/ssacli",
+	"/usr/local/sbin/ssacli",
 }
 
 var clipath string

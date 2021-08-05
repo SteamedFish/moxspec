@@ -10,6 +10,9 @@ import (
 
 var pathList = []string{
 	"/opt/MegaRAID/MegaCli/MegaCli64",
+	"/usr/local/sbin/MegaCli64",
+	"/usr/local/sbin/MegaCli",
+	"/opt/MegaRAID/MegaCli/MegaCli",
 }
 
 var clipath string
